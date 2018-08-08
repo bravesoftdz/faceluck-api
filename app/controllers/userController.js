@@ -2,7 +2,6 @@ const mongoose = require('mongoose');
 
 const User = mongoose.model('User');
 const Post = mongoose.model('Post');
-const Comment = mongoose.model('Comment');
 
 module.exports = {
   async me(req, res, next) {
