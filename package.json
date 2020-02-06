@@ -27,7 +27,7 @@
     "mongoose": "^5.2.6",
     "nodemailer": "^4.6.7",
     "nodemon": "^1.18.3",
-    "raven": "^2.6.3",
+    "raven": "^2.6.4",
     "require-dir": "^1.0.0"
   }
 }
